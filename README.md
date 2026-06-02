@@ -217,10 +217,10 @@ See `requirements.txt` for the full dependency list.
 
 ## Author
 
-**[Your Name]**
-- 📧 your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourusername)
+**[Muhammad Faham Tariq]**
+- 📧 faham7106@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-faham-tariq-a0b53b409/)
+- 🐙 [Insatgram](https://www.instagram.com/faham234566/)
 
 ---
 
